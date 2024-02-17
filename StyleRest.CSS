@@ -1,0 +1,107 @@
+.JoinUS {  margin-left: 48%;
+    margin-top: 3%; 
+    width: 150px !important; 
+     } 
+ 
+
+.Menu { font-style: italic; 
+color: rgb(27, 61, 61); 
+text-align: center;
+     margin: 4%;}
+
+
+h2 { color: rgb(27, 61, 61);}  
+
+
+.cards {display: flex; 
+ margin: 2%; 
+ justify-content: space-evenly;}
+
+ 
+
+.PlovUsbekistanDishTitle { font-size: 40px; 
+ height: 40px;
+ margin-bottom: 5%; 
+;  }
+
+.PlovUsbekistanDishP { font-size:  15px; 
+height: 20px;}
+
+.Hero h5 { font-size: 40px; 
+    font-style: italic; 
+    height: 40px;
+    margin-bottom: 5%; 
+
+    color: rgb(222, 190, 235) 
+       ;  }
+
+.Hero p { font-size: 20px;}       
+
+   .Hero
+
+.Menu img {  justify-content:  center; 
+         display: flex;
+        }
+        
+.AboutUS { margin-left: 40%;}
+.AboutUS h2 {text-align: center; 
+font-style: italic;}
+.card-img-top { height: 220px;}     
+
+.card-title { margin-top: 5%;
+    text-align: center;               
+               }
+
+                
+.card-text { text-align: center;
+     
+    margin-top:  10%;}
+
+    .cards h4 { text-align: center; 
+             color: #043d21;}
+
+     .ButtonBook { align-items: center;}
+
+     .AboutUS { margin-right: 40%; 
+    ;}
+
+    .AboutUS h2 { margin-bottom: 15%; 
+    font-style: italic;}
+
+
+
+
+     .Contact { margin-top: 4%;}
+     .Contact h2 {margin: 4%;4%;color: #1c073f; 
+        font-style: italic; }
+        
+   
+
+    .form {height:40%; 
+    width:40% ; 
+margin-top: 5%;
+ margin-left: 30%; 
+ margin-right: 50%; 
+ background-color: #f8e8d9; 
+ border-radius: 15%;
+}
+
+.footer
+{ 
+background-color: #d7eeae; 
+border-radius: 8%; 
+}
+
+.footer p { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%; 
+    font-weight: 200px
+    ; 
+}
+footer img { 
+    margin-left: 46.5%;
+    width: 7%;
+    height: 7%;
+}
